@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋</h1>
-<div align="center"> <img src="https://i.gifer.com/2GU.gif" height="100" alt="waving cat" /> </div>
+<div align="center"> <img src="https://i.gifer.com/2GU.gif" height="150" alt="waving cat" /> </div>
 
 
 ###
